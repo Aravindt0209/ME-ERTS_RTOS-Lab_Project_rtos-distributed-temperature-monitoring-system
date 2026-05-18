@@ -67,6 +67,6 @@ RTOS-based distributed temperature monitoring system using ESP32, ESP8266, TI CC
   /ESP32_Node2_Code
   /ESP8266_Node3_Code
   /TI_CC3220SF_Gateway_Code
-/RaspberryPi_Python_Logger
-/NodeRED_Flows
-/Documentation
+  /RaspberryPi_Python_Logger
+  /NodeRED_Flows
+  /Documentation
